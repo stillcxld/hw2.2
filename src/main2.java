@@ -1,4 +1,3 @@
-
 public class main2 {
     public static void main(String[] args) {
         int sum = 1817;
