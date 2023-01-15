@@ -3,7 +3,7 @@ public class Main2 {
         int sum = 1817;
         int limit = 1000;  //константа, если клиент платит выше этой суммы, то получается баллы
         int bonus = 0;
-        if (sum < con) {
+        if (sum < limit) {
             System.out.println("Бонус:" + (bonus));
         } else {
             bonus = (sum / 100);
